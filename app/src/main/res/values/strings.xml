@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Niana</string>
+    <string name="location">Manila, Philipina</string>
+    <string name="business">Dancer</string>
+    <string name="link">nianaguerrero.com</string>
+    <string name="following">Following</string>
+    <string name="send">Send message</string>
+    <string name="bio_niana">Niana was born in the Philippines on 27 January 2006. This makes her 11 years at present. Regarding her family, she was born to her parents with her siblings. Niana was born to her mother whose name is unknown and her father Nino Guerrero. She has a brother who is well known as Ranz Kyle, who is also regarded as her Youtube mate and as a dangerous duo and also her sister named, Natalia Guerrero. Niana is of Filipino ethnicity.</string>
+    <string name="bio">BIO :</string>
+    <string name="support">SUPPORTED BY :</string>
+    <string name="polow">Follow</string>
+</resources>
